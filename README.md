@@ -13,6 +13,7 @@
 - Заметки по курсам
 
 > «Безопасность — это не технология, а мышление.»
+
 🛡️ My Journey into Cybersecurity  
 Former law enforcement officer with extensive experience in physical security, asset protection, and threat response.  
 This repository contains my structured learning path as I transition into Information Security:  
@@ -36,13 +37,5 @@ This repository contains my structured learning path as I transition into Inform
 Стать Junior SOC Analyst / Security Specialist и применить опыт реального мира в цифровой защите.
 
 
-_ _ _
-TAGS
--cybersecurity  
--soc-analyst  
--incident-response  
--blue-team  
--information-security  
--career-change  
--law-enforcement-to-cyber
+
 
