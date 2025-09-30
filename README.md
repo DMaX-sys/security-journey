@@ -13,7 +13,15 @@
 - Заметки по курсам
 
 > «Безопасность — это не технология, а мышление.»
+🛡️ My Journey into Cybersecurity  
+Former law enforcement officer with extensive experience in physical security, asset protection, and threat response.  
+This repository contains my structured learning path as I transition into Information Security:  
+- Incident response checklists  
+- Network & OS fundamentals  
+- SOC analyst lab reports  
+- Threat analysis notes  
 
+"Security is not just technology — it's a mindset forged in real-world experience."
 ---
 
 ## 📂 Структура репозитория
