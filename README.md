@@ -34,3 +34,11 @@ This repository contains my structured learning path as I transition into Inform
 
 ## 🎯 Цель
 Стать Junior SOC Analyst / Security Specialist и применить опыт реального мира в цифровой защите.
+cybersecurity  
+soc-analyst  
+incident-response  
+blue-team  
+information-security  
+career-change  
+law-enforcement-to-cyber
+
